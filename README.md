@@ -1,2 +1,2 @@
 # Devnest-Sanket
-These repository contains small projects based on Frond-End Development.
+👨🏼‍💻 These repository contains small projects based on Frond-End Development.
